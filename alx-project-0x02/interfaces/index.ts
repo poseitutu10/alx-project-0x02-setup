@@ -10,3 +10,7 @@ export interface PostProps {
   isOpen: boolean;
 }
 
+export interface ButtonProps {
+  title: string;
+  styles: string;
+}
