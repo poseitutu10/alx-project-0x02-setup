@@ -10,6 +10,7 @@ const Header: React.FC = () => {
         <ul className="space-x-5">
           <Link href={`/home`}>Home</Link>
           <Link href={`/about`}>About</Link>
+          <Link href={`/posts`}>Posts</Link>
         </ul>
       </nav>
     </header>
